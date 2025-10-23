@@ -1,0 +1,166 @@
+.main-container {
+    background: linear-gradient(135deg, #001a4d, #063666, #041b32);
+
+
+    height: 300px;
+    width: 465px;
+    border-radius: 25px;
+    margin-left: 320px;
+}
+
+.aa {
+    text-align: center;
+    font-size: 10px;
+    padding: 12px;
+    color: aliceblue;
+}
+
+.bb {
+    background-color: black;
+    height: 45px;
+    margin-top: -17px;
+}
+
+.cc {
+    margin-top: -90px;
+    margin-left: 105px;
+    font-size: 15px;
+}
+
+.dd {
+    color: rgb(157, 186, 211);
+    margin-top: -5px;
+}
+
+.ee {
+    color: rgb(157, 186, 211);
+    margin-left: 160px;
+    margin-top: -30px;
+}
+
+.ff {
+    color: rgb(157, 186, 211);
+    font-size: 10px;
+    margin-top: -13px;
+    margin-left: 22px;
+}
+
+.gg {
+    color: rgb(157, 186, 211);
+    font-size: 9px;
+    margin-top: -9px;
+    margin-right: 25px;
+    display: flex;
+}
+
+.hh {
+    color: aliceblue;
+    margin-top: -10px;
+    margin-left: -35px;
+}
+
+.ii {
+    color: aliceblue;
+    margin-top: -18px;
+    margin-left: -35px;
+}
+
+.jj {
+    color: aliceblue;
+    margin-top: -18px;
+    margin-left: -35px;
+}
+
+.kk {
+    margin-inline-start: -110px;
+    margin-top: -40px;
+}
+
+.ll {
+    margin-left: 300px;
+    margin-top: -60px;
+}
+
+.mm {
+    margin-inline-start: -90px;
+    margin-top: -40px;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.nn {
+    margin-top: -50px;
+    margin-inline-start: -80px;
+    border-radius: 15px;
+    display: flex;
+}
+
+.main-box {
+    background: linear-gradient(135deg, #001a4d, #063666, #041b32);
+    height: 300px;
+    width: 465px;
+    border-radius: 25px;
+    margin-block-start: 20px;
+    margin-left: -450px;
+}
+.oo{
+    margin-left: 10px;
+    border-radius: 15px;
+   
+}
+.pp{
+    margin-left: 30px;
+    border-radius: 10px;
+     margin-top: 8px;
+}
+.qq{
+    color: aliceblue;
+    font-size: x-large;
+    margin-left: 45px;
+    
+}
+.kj{
+    color: aliceblue;
+    margin-top: -20px;
+    margin-left: 43px;
+}
+.yt{
+    color: aliceblue;
+    margin-left: 43px;
+     margin-top: -15px;
+     font-size: small;
+     font-size: 10px;
+}
+.gr{
+    color: aliceblue;
+    margin-top: -10px;
+    margin-left: 43px;
+    font-size: 9px;
+
+}
+.ab{
+    color: aliceblue;
+    font-size: 12px;
+    margin-left: 120px;
+    margin-top: -28px;
+}
+.li{
+     color: aliceblue;
+    font-size: 12px;
+    margin-left: 220px;
+    margin-top: -38px;
+}
+.hg{
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.zz{
+    margin-top: -95px;
+    margin-left: 340px;
+}
+.ag{
+    margin-left: 390px;
+ margin-top: -260px;
+}
